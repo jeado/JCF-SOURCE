@@ -1,0 +1,18 @@
+[submodule "jcf-data"]
+	path = jcf-data
+	url = git@github.com:JCF-Source/jcf-data.git
+[submodule "jcf-ui"]
+	path = jcf-ui
+	url = git@github.com:JCF-Source/jcf-ui.git
+[submodule "jcf-parent"]
+	path = jcf-parent
+	url = git@github.com:JCF-Source/jcf-parent.git
+[submodule "jcf-pack"]
+	path = jcf-pack
+	url = git@github.com:JCF-Source/jcf-pack.git
+[submodule "jcf-iam"]
+	path = jcf-iam
+	url = git@github.com:JCF-Source/jcf-iam.git
+[submodule "jcf-deprecated"]
+	path = jcf-deprecated
+	url = git@github.com:JCF-Source/jcf-deprecated.git
